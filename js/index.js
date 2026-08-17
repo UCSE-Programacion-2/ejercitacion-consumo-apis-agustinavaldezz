@@ -43,5 +43,5 @@ function renderizarDatosUsuario(datos) {
 //    y actualizar la tarjeta sin recargar la página.
 
 function cargarUsuario() {
-  // Escribe aquí tu código para realizar un nuevo pedido a la API y actualizar la tarjeta
+  obtenerUsuario();
 }
